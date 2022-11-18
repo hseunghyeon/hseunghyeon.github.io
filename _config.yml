@@ -3,8 +3,7 @@ title:            오픈소스 소프트웨어
 longtitle:        hekyll-gitbook
 author:           HE Tao
 email:            sighingnow@gmail.com
-description: >
-  왜 수정이 안되는 거지...
+description: > none
 
 version:          1.0
 gitbook_version:  3.2.3
