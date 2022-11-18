@@ -6,6 +6,11 @@ permalink: /
 
 2022년 11월 18일 오픈소스 소프트웨어 11주차 실습
 
+## Autor
+
+name : seunghyeon Hwang
+- Pukyoung National University
+
 ## Demo
 
 Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
