@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: Open source Software
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+여기서 수정하는 거 맞나요
 
 ## Demo
 
